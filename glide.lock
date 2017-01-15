@@ -1,0 +1,6 @@
+hash: d78480500117cbea380e3d68ef3cf8ddf3d28f32c585c55d3db1fb5cfcfb2785
+updated: 2017-01-15T16:32:08.036555573-07:00
+imports:
+- name: github.com/lukeroth/gdal
+  version: cda1b1bb480461c76cacad8dc1406c822cfbb0d4
+testImports: []

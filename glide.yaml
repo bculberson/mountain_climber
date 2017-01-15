@@ -1,0 +1,3 @@
+package: github.com/bculberson/mountain_climber
+import:
+- package: github.com/lukeroth/gdal
